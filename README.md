@@ -4,9 +4,15 @@
 
 ---
 
-## Description 
+## Description
 
 This is my professional portfolio to showcase all of my Web Development work.
+
+---
+
+## Important Links
+
+[Deployed URL](https://caitlyn-griffing.github.io/caits-creations-updated/)
 
 ---
 
