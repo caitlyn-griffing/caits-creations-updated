@@ -1,0 +1,82 @@
+body {
+    background-color: rgba(206,206,206,0.5);
+    margin: 0;
+    padding: 0;
+    color: #0c2a75;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+header {
+    background-color: #0c2a75;
+    padding: 7px 3px;
+    margin-bottom: 37px;
+}
+
+.navbar  {
+    background-color: #bacbf8;
+    padding: 9px;
+    border-radius: 17px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar h1 {
+    font-size: 45px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0;
+    padding: 7px;
+    border: 5px dotted #effd5e;
+}
+
+.quiz-container {
+    background-color: #bacbf8;
+    padding: 17px;
+    margin: auto;
+    height: 65vh;
+    width: 75vw;
+    border-radius: 17px;
+    border: 7px solid #0c2a75;
+    display: flex;
+    justify-content: center;
+}
+
+.info-box {
+    color: #fff;
+    border: 3px dotted #effd5e;
+    padding-bottom: 2%;
+    width: 80%;
+    height: max-content;
+}
+
+.info-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    font-size: 3vh;
+    margin: 2%;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+ul {
+    margin: auto;
+    list-style: none;
+    text-align: left; 
+}
+
+.timer {
+    border: 2px dotted #fff;
+    padding: 3%;
+}
+
+.countdown
+
+.quiz-content {
+    
+}
